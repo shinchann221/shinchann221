@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Engineering Lead at Zoth.io<br>🌱 I’m currently learning Data Structures and Algorithms and Machine Learning<br>💬 Ask me about anything related to Tech and development.
+🔭 I’m currently working as an Backend Engineering Lead at Zoth.io<br>🌱 I’m currently learning Data Structures and Algorithms and Machine Learning<br>💬 Ask me about anything related to Tech and development.
 
 
 ## 🌐 Socials:
